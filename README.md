@@ -15,9 +15,10 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Fullstack Developer specializing in modern web technologies</h3>
 
-<!--<p align="center">-->
-<!--  <img src="https://komarev.com/ghpvc/?username=Mehedihasan444&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />-->
-<!--</p>-->
+<p>As a dedicated and passionate learner, I strive to create impactful and innovative solutions in the field of technology. My vision is to bridge the gap between advanced technologies and real-world applications, helping to build a future where technology makes life easier and better for everyone.
+
+I specialize in full-stack web development, focusing on creating user-centric, scalable, and efficient applications. My expertise includes working with modern frameworks and tools like React.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, and TypeScript and so on. I have experience in building e-commerce platforms, social media platforms, car rental reservation system. I’m passionate about turning complex ideas into practical solutions that deliver value.
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehedihasan444&show_icons=true&theme=dark" alt="GitHub Stats" />
