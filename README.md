@@ -1,77 +1,121 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHNVWYJ_iIg2w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711643778451?e=1736380800&v=beta&t=SGadgdAds37eONmROTglRBlzVgvDsSI-lw768IRcRhs"/>
+
+<img src="https://i.ibb.co.com/7Cw5tP0/Copy-of-Copy-of-Neutral-Modern-Web-Developer-Linked-In-Banner.png"/>
+
+<div align="center" width="50">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
+
+
+![Totals Hits](https://komarev.com/ghpvc/?username=Mehedihasan444&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<h3 align="center" align="center" >A passionate MERN/Full Stack Developer from Bangladesh</h3>
-<p>I'm a MERN-Stack/Full stack Web Developer with a passion for crafting intuitive, user-friendly web applications. I'm dedicated to delivering seamless user experiences through clean, maintainable, and optimized code.</p>
+<h3 align="center">A passionate Fullstack Developer specializing in modern web technologies</h3>
+
+<!--<p align="center">-->
+<!--  <img src="https://komarev.com/ghpvc/?username=Mehedihasan444&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />-->
+<!--</p>-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehedihasan444&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
+##  🚀 About Me
+
+- 🔭 I'm currently working on **building scalable web applications**
+- 🌱 I'm passionate about **creating efficient and user-friendly solutions**
+- 💬 Ask me about **MERN Stack, Next.js, PostgreSQL, and Prisma**
+- 📫 How to reach me: **mehedihasan67705251@gmail.com**
+
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehedihasan444&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </p>
 
+## 🛠️ Core Skills
+
+```typescript
+const skills = {
+  frontend: {
+    frameworks: ['React', 'Next.js'],
+    styling: ['Tailwind CSS', 'CSS3', 'SASS'],
+    stateManagement: ['Redux', 'Context API', 'Zustand'],
+  },
+  backend: {
+    runtime: 'Node.js',
+    frameworks: ['Express.js', 'Next.js'],
+    databases: ['MongoDB', 'PostgreSQL'],
+    orms: ['Prisma', 'Mongoose'],
+  },
+  tools: {
+    versionControl: 'Git',
+    deployment: ['Vercel', 'Heroku', 'AWS'],
+    testing: ['Jest', 'React Testing Library'],
+  },
+  practices: [
+    'RESTful APIs',
+    'GraphQL',
+    'Microservices',
+    'CI/CD',
+    'Agile Methodology',
+  ],
+};
+```
 
 
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/mehedi-hasan-a56341256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mehedi Hasan's LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100025449610680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mehedi Hasan's Instagram" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mehedihasan67705251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mehedi Hasan's Instagram" height="30" width="40" />
-  </a>
-  </br>
-  </br>
-</p>
-  <p align="left">
-  Take a tour to see my projects
-  [<a href="https://mehedi-hasan-sigma.vercel.app/" target="blank">Click Here</a>]
-  </p>
+## 💻 Languages
 
-## 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="Prisma" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
- <a href="https://postman.com" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="background-color:white; padding:5px; border-radius:8px; display:inline-block; margin:3px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 
-</p>
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan444&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<!--<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>-->
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
+
+
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan444&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehedihasan444&theme=dark" alt="GitHub Streak Stats"/>
 </p>
+
+
+
+## 📫 Let's Connect
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan444&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  <a href="https://linkedin.com/in/mehedi-hasan-893500301">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/@MEHEDIH60833052">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <i>Let's create something amazing together!</i>
+</p
+
