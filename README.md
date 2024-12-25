@@ -95,7 +95,7 @@ const skills = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehedihasan444&theme=dark" alt="GitHub Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=Mehedihasan444&theme=dark" alt="GitHub Streak Stats"/>
 </p>
 
 
