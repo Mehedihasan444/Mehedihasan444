@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co.com/7Cw5tP0/Copy-of-Copy-of-Neutral-Modern-Web-Developer-Linked-In-Banner.png"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHlxFssO8OrVg/profile-displaybackgroundimage-shrink_350_1400/B4DZqqcIwMHwAY-/0/1763796097090?e=1765411200&v=beta&t=wSiQc0rPKM-vwYp2YffScIi4r1M0CcnLNoLpTdrZvYY"/>
 
 <div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
